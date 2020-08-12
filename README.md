@@ -1,2 +1,3 @@
-# treinamento-teste-de-software
-Repositório usado para centralizar os conteúdos ministrados no treinamento do Júlio Lima sobre testes de software.
+# Treinamento Teste de Software
+
+Repositório usado para centralizar os conteúdos ministrados no treinamento do [Júlio Lima](https://www.juliodelima.com.br/) sobre [Testes de Software](http://tspi.juliodelima.com.br/).
