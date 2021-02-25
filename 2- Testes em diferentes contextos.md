@@ -12,6 +12,41 @@
     * O software só chega ao usuário final ao final de todo o processo de desenvolvimento.
     
     <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/08121228/modelo-cascata.png" width="500px">
+    
+    #### Processo de testes no modelo tradicional:
+     <table>
+      <thead>
+        <th>Fase</th>
+        <th>Atividades</th>
+        <th>Artefatos</th>
+      </thead>
+      <tr>
+        <td> <b>Documentação</b> </td>
+        <td> Revisar documentação</td>
+        <td> Plano de teste e caso de teste</td>
+      </tr>
+      <tr>
+        <td> <b>Codificação</b> </td>
+        <td> Revisar código fonte </td>
+        <td> Testes de unidade e testes de integração </td>
+      </tr>
+      <tr>
+        <td> <b>Testes</b> </td>
+        <td> Executar os casos de testes já criados, automatizar testes e gerir inconsistências e retestar </td>
+        <td> Log de testes, reporte de inconsistências e scripts de teste automatizado </td>
+      </tr>
+      <tr>
+        <td> <b>Homologação</b> </td>
+        <td> Auxiliar os usuários nos testes de aceitação </td>
+        <td> Reporte inconsistências </td>
+      </tr>
+      <tr>
+        <td> <b>Entrega</b> </td>
+        <td> Versionar o testware, emetir relatórios de fechamento dos testes e monitorar a aplicação em produção </td>
+        <td> Reporte inconsistências e relatório de resumo dos testes </td>
+      </tr>
+    </table>
+     
   
   #### Características do modelo ágil:
     * Um único time trabalhando junto para desenvolver o software como um todo;
